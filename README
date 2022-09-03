@@ -1,2 +1,6 @@
 This is the first file to create a github in newly created repository.
+<<<<<<< Updated upstream
 newly changes hello start.
+=======
+newly changes hello started newly updated changes.
+>>>>>>> Stashed changes
